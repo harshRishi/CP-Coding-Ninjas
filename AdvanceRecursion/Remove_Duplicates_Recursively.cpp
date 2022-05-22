@@ -1,5 +1,4 @@
 /*Remove Duplicates Recursively
-Send Feedback
 Given a string S, remove consecutive duplicates from it recursively.
 Input Format :
 First line of input will contain T number of test cases
