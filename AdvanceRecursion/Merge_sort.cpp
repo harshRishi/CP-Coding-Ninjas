@@ -1,6 +1,5 @@
 /*
 Merge Sort Code
-Send Feedback
 Sort an array A using Merge Sort.
 Change in the input array itself. So no need to return or print anything.
 Input format :
