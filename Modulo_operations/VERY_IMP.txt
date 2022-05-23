@@ -1,0 +1,3 @@
+1. Modulo of anything will be 0 if that number is multiple of modulo
+2. Modulo ranges from 0 t0 modulo - 1
+3. (a+b) % mod = (a%mod + b%mod)%mod; // same for all operations like "-" "*" and also for "/"{its is very important that division should exsist}
